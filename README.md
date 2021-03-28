@@ -2,7 +2,7 @@
 
 Hello! 
 
-This Repository contains code to create a summary table of each stocks changes for a given year. This code can move acroos mutiple sheets. 
+This Repository contains code to create a summary table of each stocks changes for a given year. This code can move across mutiple sheets. 
 The summary table includes:
 -Ticker Name 
 -Yearly Change
