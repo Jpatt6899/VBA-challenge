@@ -2,7 +2,7 @@
 
 Hello! 
 
-This Repository contains code to create a summary table of each stock typeschanges for a given year. Its contains 1 year per sheet, with 3 years total. 
+This Repository contains code to create a summary table of each stocks changes for a given year. This code can move acroos mutiple sheets. 
 The summary table includes:
 -Ticker Name 
 -Yearly Change
