@@ -2,7 +2,7 @@
 
 Hello! 
 
-This Respository contains code to create a summary table of each stock typeschanges for a given year. Its contains 1 year per sheet, with 3 years total. 
+This Repository contains code to create a summary table of each stock typeschanges for a given year. Its contains 1 year per sheet, with 3 years total. 
 The summary table includes:
 -Ticker Name 
 -Yearly Change
